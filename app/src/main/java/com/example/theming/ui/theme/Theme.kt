@@ -7,8 +7,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 
-// Import CustomPrimaryColor from Color.kt
-import com.example.theming.ui.theme.CustomPrimaryColor
 
 // Light color scheme
 private val LightColorScheme = lightColorScheme(
